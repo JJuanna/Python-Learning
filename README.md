@@ -1,2 +1,2 @@
 # Python-Learning
-Python exercises
+Python exercises and examples
